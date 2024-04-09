@@ -1,6 +1,6 @@
 # YT_Analytics
 
-install all the npm packages required for the project : run:
+install all the npm packages required for the project : 
 npm install
 
 to run the program:
